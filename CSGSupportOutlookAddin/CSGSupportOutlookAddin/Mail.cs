@@ -10,7 +10,7 @@ namespace SupportOutlookAddIn
     class Mail
     {
 
-        private MailItem _Mail;
+        private MailItem _Mail; //test
 
         public Mail(MailItem mail)
         {
