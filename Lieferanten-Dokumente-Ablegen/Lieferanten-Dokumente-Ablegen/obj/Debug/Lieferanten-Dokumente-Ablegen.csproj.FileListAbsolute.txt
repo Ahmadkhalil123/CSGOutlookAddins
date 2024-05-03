@@ -1,0 +1,14 @@
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\bin\Debug\Lieferanten-Dokumente-Ablegen.dll
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\bin\Debug\Lieferanten-Dokumente-Ablegen.pdb
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\bin\Debug\Lieferanten-Dokumente-Ablegen.dll.manifest
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\bin\Debug\Lieferanten-Dokumente-Ablegen.vsto
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\obj\Debug\Lieferanten-Dokumente-Ablegen.csprojAssemblyReference.cache
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\obj\Debug\Lieferanten_Dokumente_Ablegen.Properties.Resources.resources
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\obj\Debug\Lieferanten_Dokumente_Ablegen.Ribbon1.resources
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\obj\Debug\Lieferanten-Dokumente-Ablegen.csproj.GenerateResource.cache
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\obj\Debug\Lieferanten-Dokumente-Ablegen.csproj.CoreCompileInputs.cache
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\obj\Debug\Lieferanten-Dokumente-Ablegen.csproj.CopyComplete
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\obj\Debug\Lieferanten-Dokumente-Ablegen.dll
+C:\Users\a.khalil\source\repos\Lieferanten-Dokumente-Ablegen\Lieferanten-Dokumente-Ablegen\obj\Debug\Lieferanten-Dokumente-Ablegen.pdb

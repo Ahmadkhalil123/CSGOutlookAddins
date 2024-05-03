@@ -1,0 +1,14 @@
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\bin\Debug\CSGSupportOutlookAddin.dll
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\bin\Debug\CSGSupportOutlookAddin.pdb
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\bin\Debug\CSGSupportOutlookAddin.dll.manifest
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\bin\Debug\CSGSupportOutlookAddin.vsto
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\obj\Debug\CSGSupportOutlookAddin.csprojAssemblyReference.cache
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\obj\Debug\CSGSupportOutlookAddin.Properties.Resources.resources
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\obj\Debug\CSGSupportOutlookAddin.Ribbon1.resources
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\obj\Debug\CSGSupportOutlookAddin.csproj.GenerateResource.cache
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\obj\Debug\CSGSupportOutlookAddin.csproj.CoreCompileInputs.cache
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\obj\Debug\CSGSupportOutlookAddin.csproj.CopyComplete
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\obj\Debug\CSGSupportOutlookAddin.dll
+C:\Users\a.khalil\source\repos\CSGSupportOutlookAddin\CSGSupportOutlookAddin\obj\Debug\CSGSupportOutlookAddin.pdb

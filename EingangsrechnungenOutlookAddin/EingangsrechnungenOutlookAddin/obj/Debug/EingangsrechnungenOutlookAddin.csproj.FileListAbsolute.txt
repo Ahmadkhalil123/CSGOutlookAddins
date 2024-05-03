@@ -1,0 +1,14 @@
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\bin\Debug\EingangsrechnungenOutlookAddin.dll
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\bin\Debug\EingangsrechnungenOutlookAddin.pdb
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\bin\Debug\EingangsrechnungenOutlookAddin.dll.manifest
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\bin\Debug\EingangsrechnungenOutlookAddin.vsto
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\obj\Debug\EingangsrechnungenOutlookAddin.csprojAssemblyReference.cache
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\obj\Debug\EingangsrechnungenOutlookAddin.Properties.Resources.resources
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\obj\Debug\EingangsrechnungenOutlookAddin.Ribbon1.resources
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\obj\Debug\EingangsrechnungenOutlookAddin.csproj.GenerateResource.cache
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\obj\Debug\EingangsrechnungenOutlookAddin.csproj.CoreCompileInputs.cache
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\obj\Debug\EingangsrechnungenOutlookAddin.csproj.CopyComplete
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\obj\Debug\EingangsrechnungenOutlookAddin.dll
+C:\Users\a.khalil\source\repos\EingangsrechnungenOutlookAddin\EingangsrechnungenOutlookAddin\obj\Debug\EingangsrechnungenOutlookAddin.pdb
